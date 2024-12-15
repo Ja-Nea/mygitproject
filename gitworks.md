@@ -1,5 +1,7 @@
-#HEy Girl, 
+#Hey Girl, 
 
 You Got this !!
 
-God is Good ! ECHO is on.
+God is Good ! 
+
+Second attempt to create for a merge file test.
